@@ -18,8 +18,11 @@ The objective of this project was to gain practice in using network monitoring t
 
 Image 1: Wireshark
 
+## Objective
+The main objective of this project is to configure firewalls and test firewall security in a network. The purpose of this testing is to find vulnerabilities within the firewall, simulate attacks, and ensure firewall effectiveness.
+
 - Configuring Defender Firewall-Ports
-  - Firewalls can be configured in many ways to secure network traffic such as configuring the Firewall to block protocols such as TCP.
+  - Firewalls can be configured in many ways to secure network traffic such as configuring the Firewall to block protocols such as TCP. Practice using the command terminal was also used to modify and proxy servers and test the capability of a Honeypot.
   - Using Firewall protocols along with commands in the command line, I was able to simulate intrusion detection attempts. *See Image 2*
  
 ![image](https://github.com/user-attachments/assets/fafe229f-9746-49a1-9461-0abf0d026674)
