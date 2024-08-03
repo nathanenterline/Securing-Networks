@@ -12,7 +12,7 @@ The objective of this project was to gain practice in using network monitoring t
 
 
 - Using Network Security Assessment Tools
-  - I established a shell environment to use tools, such as nmap and traceroute, to perform security actions crucial for securing a network. In addition, other tools were used including “OpenSSL,” to implement Transport Layer Security (TLS) protocols to help provide communication security over a network.
+  - I established a shell environment to use tools, such as nmap and traceroute, to perform security actions crucial for securing a network. In addition, other tools were used including “OpenSSL,” to implement Transport Layer Security (TLS) protocols to help provide communication security over a network. Image 1 shows me using Wireshark to capture packets for security monitoring purposes.
 
 ![image](https://github.com/user-attachments/assets/62afed8e-d236-4440-858d-808a08dbad84)
 
@@ -20,6 +20,7 @@ Image 1: Wireshark
 
 - Configuring Defender Firewall-Ports
   - Firewalls can be configured in many ways to secure network traffic such as configuring the Firewall to block protocols such as TCP.
+  - Using Firewall protocols along with commands in the command line, I was able to simulate intrusion detection attempts. *See Image 2*
  
 ![image](https://github.com/user-attachments/assets/fafe229f-9746-49a1-9461-0abf0d026674)
 
